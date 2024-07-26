@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Frobot&psig=AOvVaw1LT278AEUYVgvtjHdXpWGu&ust=1722057374326000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODrq-T5w4cDFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="https://i.gifer.com/3q63.gif"  />
 
 ###
 
@@ -40,10 +40,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
