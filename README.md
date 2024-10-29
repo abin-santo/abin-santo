@@ -4,19 +4,20 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in creating innovative solutions and applications. I love to explore new technologies and continuously improve my skills.
-
+Passionate and driven engineer with a deep interest in robotics and automation. Graduated with a Bachelors in
+Electronics and Communication, specializing in VLSI and Machine Learning. Experienced in CNC machine
+development at Super Fab Lab Kochi.
 - 🌱 I’m currently learning new frameworks and tools to enhance my development capabilities.
-- 💬 Ask me about web development, programming languages, and software design.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) (replace with your actual email).
+- 💬 Ask me about pcb designing, 3D designing ,Embedded programming.
+- 📫 How to reach me: [your.email@example.com](mailto:abinsantohonor@gmail.com) (replace with your actual email).
 - ⚡ Fun fact: I enjoy solving puzzles and challenges in my free time!
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools & Technologies**: Git, Docker, AWS
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Languages**: python ,c,c++
+- **3D designing**: fusion 360,autocad
+- **Tools & Technologies**: Git
+- **PCB designing**: KICAD
 
 ## Projects
 
@@ -28,9 +29,8 @@ Here are a few projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/abin-santo-092083277/))
+
 
 ## GitHub Stats
 
